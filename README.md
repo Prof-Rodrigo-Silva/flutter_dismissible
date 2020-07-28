@@ -1,9 +1,9 @@
 # flutter_dismissible
 
 <img src="https://img.shields.io/static/v1?label=version&message=v1.0&color=success&style=flat"/> <img src="https://img.shields.io/static/v1?label=build&message=passing&color=success&style=flat"/>
-<a href="https://github.com/Prof-Rodrigo-Silva/dismissible/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Prof-Rodrigo-Silva/dismissible"></a>
-<a href="https://github.com/Prof-Rodrigo-Silva/dismissible/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Prof-Rodrigo-Silva/dismissible"></a>
-<a href="https://github.com/Prof-Rodrigo-Silva/dismissible/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Prof-Rodrigo-Silva/dismissible"></a>
+<a href="https://github.com/Prof-Rodrigo-Silva/flutter_dismissible/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Prof-Rodrigo-Silva/flutter_dismissible"></a>
+<a href="https://github.com/Prof-Rodrigo-Silva/flutter_dismissible/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Prof-Rodrigo-Silva/flutter_dismissible"></a>
+<a href="https://github.com/Prof-Rodrigo-Silva/flutter_dismissible/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Prof-Rodrigo-Silva/flutter_dismissible"></a>
 
 
 **Project Status: Concluded** :heavy_check_mark:
